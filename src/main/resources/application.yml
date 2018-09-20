@@ -1,0 +1,6 @@
+ribbon:
+  eureka:
+    enabled: true
+  MaxAutoRetries: 3 #(2)
+  MaxAutoRetriesNextServer: 0 #(3)
+  ReadTimeout: 1000 #(4)
